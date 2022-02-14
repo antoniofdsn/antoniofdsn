@@ -1,5 +1,5 @@
 
-# Welcome to my world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome to my world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 My name is Antonio Ferreira and I'm a Computer engineer from Brasil, living in Salvador and currently working at 123milhas.
 <br>
