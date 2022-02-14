@@ -1,7 +1,10 @@
 
 # Welcome to my world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Antonio Ferreira and I'm a Computer engineer. I'm from Brasil, living in Salvador and currently working at 123milhas. You can find me on  [![LinkedIn][3.2]][3].
+My name is Antonio Ferreira and I'm a Computer engineer. I'm from Brasil, living in Salvador and currently working at 123milhas. You can find me on:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/antoniofdsn/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antoniofdsn97@gmail.com)](mailto:mendes.m.filipe@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/antoniofdsn/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
