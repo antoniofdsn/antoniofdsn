@@ -1,11 +1,10 @@
 
 # Welcome to my world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-My name is Antonio Ferreira and I'm a Computer engineer from Brasil, living in Salvador and currently working at 123milhas.
-<br>
-You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/antoniofdsn/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/tonyfdsn/)
+
+Technology is an extension of nature and here you will follow some of my contribution to this world and enjoy a bit of this jungle.
+I'm a Computer engineer from Brazil, living in Salvador and currently working at 123milhas.
 
 ## ⚡ Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
