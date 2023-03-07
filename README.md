@@ -44,33 +44,21 @@ I'm a Computer engineer from Brazil, living in Salvador and currently working fo
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-
-<!-- ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) -->
-
 <!-- ## &#x270d; Blog & Writing
 
 Coming soon... -->
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <a href="https://github.com/antoniofdsn/antoniofdsn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofdsn&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a> -->
-
+<a href="https://github.com/antoniofdsn/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofdsn&theme=blue-green" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/antoniofdsn/antoniofdsn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniofdsn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Antonio's GitHub Stats" />
 </a>
-<!-- <br>
-<a href="https://github.com/antoniofdsn/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniofdsn&repo=Emotion-Detection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+   
 
-
-<a href="https://github.com/antoniofdsn/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniofdsn&repo=Orixas-War&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     -->
-
-<!-- 
 ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![Profile views](https://gpvc.arturio.dev/antoniofdsn) -->
+![Profile views](https://gpvc.arturio.dev/antoniofdsn)
